@@ -1,0 +1,151 @@
+{
+ "search_metadata": {
+  "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=EUR&tfs=CBwQAho_EgoyMDI2LTExLTEyIh8KA0JFRxIKMjAyNi0xMS0xMhoDQ0RHKgJKVTIDMjQwagcIARIDQkVHcgcIARIDQ0RHGh4SCjIwMjYtMTEtMTlqBwgBEgNDREdyBwgBEgNCRUdAAUgBcAGYAQE&tfu=EgIIAQ"
+ },
+ "other_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-19 10:00"
+     },
+     "arrival_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-19 12:25"
+     },
+     "duration": 145,
+     "airplane": "Airbus A320",
+     "airline": "Air Serbia",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+     "travel_class": "Economy",
+     "flight_number": "JU 241",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "Carbon emissions estimate: 126 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 145,
+   "carbon_emissions": {
+    "this_flight": 127000,
+    "typical_for_this_route": 162000,
+    "difference_percent": -22
+   },
+   "price": 188,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+   "extensions": [
+    "Full refund for cancellations",
+    "Free change, possible fare difference",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "booking_token": "WyJDalJJYTI5ZlRtMXhabmg2Y0VWQlYwVmlVWGRDUnkwdExTMHRMWFowZDJreU9DMXVNVUZCUVVGQlIzSkhRek5KVFZoSVEzVkJFZ1ZLVlRJME1Sb0xDS0tTQVJBQ0dnTkZWVkk0SEhEUG93RT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIkpVIiwiMjQwIl1dLFtbIkNERyIsIjIwMjYtMTEtMTkiLCJCRUciLG51bGwsIkpVIiwiMjQxIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-19 21:30"
+     },
+     "arrival_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-19 23:55"
+     },
+     "duration": 145,
+     "airplane": "Airbus A319",
+     "airline": "Air Serbia",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+     "travel_class": "Economy",
+     "flight_number": "JU 243",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Carbon emissions estimate: 143 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 145,
+   "carbon_emissions": {
+    "this_flight": 143000,
+    "typical_for_this_route": 162000,
+    "difference_percent": -12
+   },
+   "price": 188,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+   "extensions": [
+    "Full refund for cancellations",
+    "Free change, possible fare difference",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "booking_token": "WyJDalJJYTI5ZlRtMXhabmg2Y0VWQlYwVmlVWGRDUnkwdExTMHRMWFowZDJreU9DMXVNVUZCUVVGQlIzSkhRek5KVFZoSVEzVkJFZ1ZLVlRJME14b0xDS0tTQVJBQ0dnTkZWVkk0SEhEUG93RT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIkpVIiwiMjQwIl1dLFtbIkNERyIsIjIwMjYtMTEtMTkiLCJCRUciLG51bGwsIkpVIiwiMjQzIl1dXQ=="
+  }
+ ],
+ "airports": [
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "BEG",
+      "name": "Belgrade Nikola Tesla Airport"
+     },
+     "city": "Belgrade",
+     "country": "Serbia",
+     "country_code": "RS",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7EAGVThEg5RNGkqD5BdIQgKKOU9_isOKrDS4i7ItH6lsA0d8mAWaamXMQM5Ie5k_inJUTZiafppxrw",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntkSQmPbIO7_IvwNqOIrcseP4V0ckRXSXwFRpu8hJbmyKPD5vdE_zpXCIHCppLjgDdUXf9yoVsjYAamOgecBO8L4F_1FNayeD6wkWMh0"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "CDG",
+      "name": "Aéroport de Paris-Charles de Gaulle"
+     },
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+    }
+   ]
+  },
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "CDG",
+      "name": "Aéroport de Paris-Charles de Gaulle"
+     },
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "BEG",
+      "name": "Belgrade Nikola Tesla Airport"
+     },
+     "city": "Belgrade",
+     "country": "Serbia",
+     "country_code": "RS",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7EAGVThEg5RNGkqD5BdIQgKKOU9_isOKrDS4i7ItH6lsA0d8mAWaamXMQM5Ie5k_inJUTZiafppxrw",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntkSQmPbIO7_IvwNqOIrcseP4V0ckRXSXwFRpu8hJbmyKPD5vdE_zpXCIHCppLjgDdUXf9yoVsjYAamOgecBO8L4F_1FNayeD6wkWMh0"
+    }
+   ]
+  }
+ ]
+}
