@@ -1,29 +1,21 @@
-import React from "react";
 import Link from "next/link";
-import Image from "next/image";
+import { Plane } from "lucide-react";
+import NavLinks from "@/components/NavLinks";
+import { siteConfig } from "@/lib/config";
 
 const Navbar = () => {
   return (
-    <>
-      <header>
-        <nav>
-          <Link href="/" className="logo">
-            <Image
-              src="/icons/logo.png"
-              alt="logo"
-              width={24}
-              height={24}
-            ></Image>
-            <p>DevEvent</p>
-          </Link>
-          <ul>
-            <Link href="/">Home</Link>
-            <Link href="/">Events</Link>
-            <Link href="/">Create Event</Link>
-          </ul>
-        </nav>
-      </header>
-    </>
+    <header>
+      <nav aria-label="Main">
+        <Link href="/" className="logo" aria-label={`${siteConfig.name} home`}>
+          <span className="logo-mark">
+            <Plane aria-hidden className="size-4" />
+          </span>
+          <p>{siteConfig.name}</p>
+        </Link>
+        <NavLinks />
+      </nav>
+    </header>
   );
 };
 

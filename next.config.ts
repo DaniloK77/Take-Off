@@ -1,14 +1,13 @@
 import type { NextConfig } from "next";
+import { remoteImagePatterns } from "./lib/images";
 
 const nextConfig: NextConfig = {
   images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "res.cloudinary.com",
-      },
-    ],
-  }, 
+    remotePatterns: remoteImagePatterns.map((pattern) => ({ ...pattern })),
+    // 90 is used for destination photos, where compression artefacts show.
+    qualities: [75, 90],
+    formats: ["image/avif", "image/webp"],
+  },
 
   async rewrites() {
     return [

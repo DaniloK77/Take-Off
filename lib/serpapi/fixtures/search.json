@@ -1,0 +1,938 @@
+{
+ "search_metadata": {
+  "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=EUR&tfs=CBwQAhoeEgoyMDI2LTExLTEyagcIARIDQkVHcgcIARIDQ0RHGh4SCjIwMjYtMTEtMTlqBwgBEgNDREdyBwgBEgNCRUdAAUgBcAGYAQE&tfu=EgIIAQ"
+ },
+ "best_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 06:30"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 09:10"
+     },
+     "duration": 160,
+     "airplane": "Airbus A320",
+     "airline": "Air Serbia",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+     "travel_class": "Economy",
+     "flight_number": "JU 240",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "Carbon emissions estimate: 130 kg"
+     ]
+    }
+   ],
+   "total_duration": 160,
+   "carbon_emissions": {
+    "this_flight": 131000,
+    "typical_for_this_route": 171000,
+    "difference_percent": -23
+   },
+   "price": 188,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+   "extensions": [
+    "Fare non-refundable, taxes may be refundable",
+    "No ticket changes",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZ1ZLVlRJME1Cb0xDUENTQVJBQ0dnTkZWVkk0SEhDbXBBRT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIkpVIiwiMjQwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 18:05"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 20:45"
+     },
+     "duration": 160,
+     "airplane": "Airbus A319",
+     "airline": "Air Serbia",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+     "travel_class": "Economy",
+     "flight_number": "JU 242",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Carbon emissions estimate: 147 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 160,
+   "carbon_emissions": {
+    "this_flight": 147000,
+    "typical_for_this_route": 171000,
+    "difference_percent": -14
+   },
+   "price": 188,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+   "extensions": [
+    "Fare non-refundable, taxes may be refundable",
+    "No ticket changes",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZ1ZLVlRJME1ob0xDUENTQVJBQ0dnTkZWVkk0SEhDbXBBRT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIkpVIiwiMjQyIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 14:40"
+     },
+     "arrival_airport": {
+      "name": "Zurich Airport",
+      "id": "ZRH",
+      "time": "2026-11-12 16:35"
+     },
+     "duration": 115,
+     "airplane": "Airbus A220-300 Passenger",
+     "airline": "SWISS",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+     "travel_class": "Economy",
+     "flight_number": "LX 1417",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Carbon emissions estimate: 107 kg"
+     ],
+     "often_delayed_by_over_30_min": true,
+     "plane_and_crew_by": "Air Baltic"
+    },
+    {
+     "departure_airport": {
+      "name": "Zurich Airport",
+      "id": "ZRH",
+      "time": "2026-11-12 17:40"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 18:55"
+     },
+     "duration": 75,
+     "airplane": "Airbus A321neo",
+     "airline": "SWISS",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+     "travel_class": "Economy",
+     "flight_number": "LX 644",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 52 kg"
+     ]
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 65,
+     "name": "Zurich Airport",
+     "id": "ZRH"
+    }
+   ],
+   "total_duration": 255,
+   "carbon_emissions": {
+    "this_flight": 160000,
+    "typical_for_this_route": 171000,
+    "difference_percent": -6
+   },
+   "price": 207,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+   "extensions": [
+    "Checked baggage for a fee",
+    "Full refund for cancellations",
+    "Free change, possible fare difference",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZ3hNV0RFME1UZDhURmcyTkRRYUN3aWdvUUVRQWhvRFJWVlNPQnh3c2JRQiIsW1siQkVHIiwiMjAyNi0xMS0xMiIsIlpSSCIsbnVsbCwiTFgiLCIxNDE3Il0sWyJaUkgiLCIyMDI2LTExLTEyIiwiQ0RHIixudWxsLCJMWCIsIjY0NCJdXV0="
+  }
+ ],
+ "other_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 06:15"
+     },
+     "arrival_airport": {
+      "name": "Frankfurt Airport",
+      "id": "FRA",
+      "time": "2026-11-12 08:15"
+     },
+     "duration": 120,
+     "airplane": "Airbus A320neo",
+     "airline": "Lufthansa",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+     "travel_class": "Economy",
+     "flight_number": "LH 1415",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 93 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Frankfurt Airport",
+      "id": "FRA",
+      "time": "2026-11-12 12:25"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 13:40"
+     },
+     "duration": 75,
+     "airplane": "Airbus A321",
+     "airline": "Lufthansa",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+     "travel_class": "Economy",
+     "flight_number": "LH 1046",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Wi-Fi for a fee",
+      "Carbon emissions estimate: 67 kg"
+     ]
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 250,
+     "name": "Frankfurt Airport",
+     "id": "FRA"
+    }
+   ],
+   "total_duration": 445,
+   "carbon_emissions": {
+    "this_flight": 161000,
+    "typical_for_this_route": 171000,
+    "difference_percent": -6
+   },
+   "price": 225,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+   "extensions": [
+    "Checked baggage for a fee",
+    "Full refund for cancellations",
+    "Free change, possible fare difference",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZzFNU0RFME1UVjhURWd4TURRMkdnc0lyNjhCRUFJYUEwVlZVamdjY0piRUFRPT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJGUkEiLG51bGwsIkxIIiwiMTQxNSJdLFsiRlJBIiwiMjAyNi0xMS0xMiIsIkNERyIsbnVsbCwiTEgiLCIxMDQ2Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 13:40"
+     },
+     "arrival_airport": {
+      "name": "Frankfurt Airport",
+      "id": "FRA",
+      "time": "2026-11-12 15:40"
+     },
+     "duration": 120,
+     "airplane": "Airbus A321",
+     "airline": "Lufthansa",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+     "travel_class": "Economy",
+     "flight_number": "LH 1411",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Wi-Fi for a fee",
+      "Carbon emissions estimate: 113 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Frankfurt Airport",
+      "id": "FRA",
+      "time": "2026-11-12 17:10"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 18:25"
+     },
+     "duration": 75,
+     "airplane": "Airbus A320neo",
+     "airline": "Lufthansa City Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VL.png",
+     "travel_class": "Economy",
+     "flight_number": "VL 1048",
+     "ticket_also_sold_by": [
+      "Lufthansa"
+     ],
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 53 kg"
+     ]
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 90,
+     "name": "Frankfurt Airport",
+     "id": "FRA"
+    }
+   ],
+   "total_duration": 285,
+   "carbon_emissions": {
+    "this_flight": 168000,
+    "typical_for_this_route": 171000,
+    "difference_percent": -2
+   },
+   "price": 237,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+   "extensions": [
+    "Checked baggage not included in price",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZzFNU0RFME1URjhWa3d4TURRNEdnc0lrN2tCRUFJYUEwVlZVamdjY0kvUEFRPT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJGUkEiLG51bGwsIkxIIiwiMTQxMSJdLFsiRlJBIiwiMjAyNi0xMS0xMiIsIkNERyIsbnVsbCwiVkwiLCIxMDQ4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 18:20"
+     },
+     "arrival_airport": {
+      "name": "Vienna International Airport",
+      "id": "VIE",
+      "time": "2026-11-12 19:30"
+     },
+     "duration": 70,
+     "airplane": "Embraer 195",
+     "airline": "Austrian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+     "travel_class": "Economy",
+     "flight_number": "OS 724",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "Carbon emissions estimate: 77 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Vienna International Airport",
+      "id": "VIE",
+      "time": "2026-11-12 20:25"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 22:30"
+     },
+     "duration": 125,
+     "airplane": "Airbus A320",
+     "airline": "Austrian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+     "travel_class": "Economy",
+     "flight_number": "OS 369",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 108 kg"
+     ]
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 55,
+     "name": "Vienna International Airport",
+     "id": "VIE"
+    }
+   ],
+   "total_duration": 250,
+   "carbon_emissions": {
+    "this_flight": 186000,
+    "typical_for_this_route": 171000,
+    "difference_percent": 9
+   },
+   "price": 265,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+   "extensions": [
+    "Checked baggage for a fee",
+    "Fare non-refundable, taxes may be refundable",
+    "No ticket changes",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZ3RQVXpjeU5IeFBVek0yT1JvTENQdk9BUkFDR2dORlZWSTRISERDNXdFPSIsW1siQkVHIiwiMjAyNi0xMS0xMiIsIlZJRSIsbnVsbCwiT1MiLCI3MjQiXSxbIlZJRSIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIk9TIiwiMzY5Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 06:50"
+     },
+     "arrival_airport": {
+      "name": "Vienna International Airport",
+      "id": "VIE",
+      "time": "2026-11-12 08:05"
+     },
+     "duration": 75,
+     "airplane": "Airbus A320",
+     "airline": "Austrian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+     "travel_class": "Economy",
+     "flight_number": "OS 726",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 64 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Vienna International Airport",
+      "id": "VIE",
+      "time": "2026-11-12 12:45"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 14:45"
+     },
+     "duration": 120,
+     "airplane": "Airbus A320",
+     "airline": "Austrian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+     "travel_class": "Economy",
+     "flight_number": "OS 363",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 108 kg"
+     ]
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 280,
+     "name": "Vienna International Airport",
+     "id": "VIE"
+    }
+   ],
+   "total_duration": 475,
+   "carbon_emissions": {
+    "this_flight": 173000,
+    "typical_for_this_route": 171000,
+    "difference_percent": 1
+   },
+   "price": 280,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+   "extensions": [
+    "Checked baggage not included in price",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZ3RQVXpjeU5ueFBVek0yTXhvTENNN2FBUkFDR2dORlZWSTRISERHOUFFPSIsW1siQkVHIiwiMjAyNi0xMS0xMiIsIlZJRSIsbnVsbCwiT1MiLCI3MjYiXSxbIlZJRSIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIk9TIiwiMzYzIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 11:05"
+     },
+     "arrival_airport": {
+      "name": "Vienna International Airport",
+      "id": "VIE",
+      "time": "2026-11-12 12:15"
+     },
+     "duration": 70,
+     "airplane": "Embraer 195",
+     "airline": "Austrian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+     "travel_class": "Economy",
+     "flight_number": "OS 722",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "Carbon emissions estimate: 77 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Vienna International Airport",
+      "id": "VIE",
+      "time": "2026-11-12 17:20"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 19:20"
+     },
+     "duration": 120,
+     "airplane": "Airbus A320",
+     "airline": "Austrian",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+     "travel_class": "Economy",
+     "flight_number": "OS 367",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 108 kg"
+     ]
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 305,
+     "name": "Vienna International Airport",
+     "id": "VIE"
+    }
+   ],
+   "total_duration": 495,
+   "carbon_emissions": {
+    "this_flight": 186000,
+    "typical_for_this_route": 171000,
+    "difference_percent": 9
+   },
+   "price": 294,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OS.png",
+   "extensions": [
+    "Checked baggage not included in price",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZ3RQVXpjeU1ueFBVek0yTnhvTENKWGxBUkFDR2dORlZWSTRISEN0Z0FJPSIsW1siQkVHIiwiMjAyNi0xMS0xMiIsIlZJRSIsbnVsbCwiT1MiLCI3MjIiXSxbIlZJRSIsIjIwMjYtMTEtMTIiLCJDREciLG51bGwsIk9TIiwiMzY3Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Belgrade Nikola Tesla Airport",
+      "id": "BEG",
+      "time": "2026-11-12 13:30"
+     },
+     "arrival_airport": {
+      "name": "Munich International Airport",
+      "id": "MUC",
+      "time": "2026-11-12 15:00"
+     },
+     "duration": 90,
+     "airplane": "Airbus A319",
+     "airline": "Lufthansa",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+     "travel_class": "Economy",
+     "flight_number": "LH 1735",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Wi-Fi for a fee",
+      "Carbon emissions estimate: 97 kg"
+     ]
+    },
+    {
+     "departure_airport": {
+      "name": "Munich International Airport",
+      "id": "MUC",
+      "time": "2026-11-12 15:55"
+     },
+     "arrival_airport": {
+      "name": "Aéroport de Paris-Charles de Gaulle",
+      "id": "CDG",
+      "time": "2026-11-12 17:35"
+     },
+     "duration": 100,
+     "airplane": "Airbus A321neo",
+     "airline": "Lufthansa",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+     "travel_class": "Economy",
+     "flight_number": "LH 2232",
+     "legroom": "29 in",
+     "extensions": [
+      "Below average legroom (29 in)",
+      "In-seat USB outlet",
+      "Carbon emissions estimate: 71 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "layovers": [
+    {
+     "duration": 55,
+     "name": "Munich International Airport",
+     "id": "MUC"
+    }
+   ],
+   "total_duration": 245,
+   "carbon_emissions": {
+    "this_flight": 169000,
+    "typical_for_this_route": 171000,
+    "difference_percent": -1
+   },
+   "price": 295,
+   "type": "Round trip",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+   "extensions": [
+    "Checked baggage not included in price",
+    "Fare non-refundable, taxes may be refundable",
+    "Ticket changes for a fee",
+    "Bag and fare conditions depend on the return flight"
+   ],
+   "departure_token": "WyJDalJJWDJkWU1scGxNSGRIWkdOQldrcFhTSGRDUnkwdExTMHRMUzB0TFhaMGVuSXhOMEZCUVVGQlIzSkhRekZGUkVsSlYxbEJFZzFNU0RFM016VjhURWd5TWpNeUdnc0k5ZVVCRUFJYUEwVlZVamdjY0ppQkFnPT0iLFtbIkJFRyIsIjIwMjYtMTEtMTIiLCJNVUMiLG51bGwsIkxIIiwiMTczNSJdLFsiTVVDIiwiMjAyNi0xMS0xMiIsIkNERyIsbnVsbCwiTEgiLCIyMjMyIl1dXQ=="
+  }
+ ],
+ "price_insights": {
+  "lowest_price": 188,
+  "price_level": "typical",
+  "typical_price_range": [
+   140,
+   240
+  ],
+  "price_history": [
+   [
+    1786053600,
+    160
+   ],
+   [
+    1786140000,
+    159
+   ],
+   [
+    1786226400,
+    159
+   ],
+   [
+    1786312800,
+    155
+   ],
+   [
+    1786399200,
+    155
+   ],
+   [
+    1786485600,
+    159
+   ],
+   [
+    1786572000,
+    158
+   ],
+   [
+    1786658400,
+    158
+   ],
+   [
+    1786744800,
+    158
+   ],
+   [
+    1786831200,
+    159
+   ],
+   [
+    1786917600,
+    155
+   ],
+   [
+    1787004000,
+    155
+   ],
+   [
+    1787090400,
+    159
+   ],
+   [
+    1787176800,
+    159
+   ],
+   [
+    1787263200,
+    160
+   ],
+   [
+    1787349600,
+    159
+   ],
+   [
+    1787436000,
+    159
+   ],
+   [
+    1787522400,
+    156
+   ],
+   [
+    1787608800,
+    155
+   ],
+   [
+    1787695200,
+    160
+   ],
+   [
+    1787781600,
+    160
+   ],
+   [
+    1787868000,
+    160
+   ],
+   [
+    1787954400,
+    160
+   ],
+   [
+    1788040800,
+    160
+   ],
+   [
+    1788127200,
+    156
+   ],
+   [
+    1788213600,
+    156
+   ],
+   [
+    1788300000,
+    160
+   ],
+   [
+    1788386400,
+    159
+   ],
+   [
+    1788472800,
+    160
+   ],
+   [
+    1788559200,
+    160
+   ],
+   [
+    1788645600,
+    163
+   ],
+   [
+    1788732000,
+    159
+   ],
+   [
+    1788818400,
+    159
+   ],
+   [
+    1788904800,
+    163
+   ],
+   [
+    1788991200,
+    163
+   ],
+   [
+    1789077600,
+    164
+   ],
+   [
+    1789164000,
+    163
+   ],
+   [
+    1789250400,
+    163
+   ],
+   [
+    1789336800,
+    176
+   ],
+   [
+    1789423200,
+    192
+   ],
+   [
+    1789509600,
+    192
+   ],
+   [
+    1789596000,
+    206
+   ],
+   [
+    1789682400,
+    192
+   ],
+   [
+    1789768800,
+    206
+   ],
+   [
+    1789855200,
+    207
+   ],
+   [
+    1789941600,
+    200
+   ],
+   [
+    1790028000,
+    205
+   ],
+   [
+    1790114400,
+    205
+   ],
+   [
+    1790200800,
+    206
+   ],
+   [
+    1790287200,
+    206
+   ],
+   [
+    1790373600,
+    206
+   ],
+   [
+    1790460000,
+    206
+   ],
+   [
+    1790546400,
+    177
+   ],
+   [
+    1790632800,
+    182
+   ],
+   [
+    1790719200,
+    183
+   ],
+   [
+    1790805600,
+    203
+   ],
+   [
+    1790892000,
+    202
+   ],
+   [
+    1790978400,
+    202
+   ],
+   [
+    1791064800,
+    203
+   ],
+   [
+    1791151200,
+    140
+   ],
+   [
+    1791237600,
+    139
+   ],
+   [
+    1791324000,
+    188
+   ]
+  ]
+ },
+ "airports": [
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "BEG",
+      "name": "Belgrade Nikola Tesla Airport"
+     },
+     "city": "Belgrade",
+     "country": "Serbia",
+     "country_code": "RS",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7EAGVThEg5RNGkqD5BdIQgKKOU9_isOKrDS4i7ItH6lsA0d8mAWaamXMQM5Ie5k_inJUTZiafppxrw",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntkSQmPbIO7_IvwNqOIrcseP4V0ckRXSXwFRpu8hJbmyKPD5vdE_zpXCIHCppLjgDdUXf9yoVsjYAamOgecBO8L4F_1FNayeD6wkWMh0"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "CDG",
+      "name": "Aéroport de Paris-Charles de Gaulle"
+     },
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+    }
+   ]
+  },
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "CDG",
+      "name": "Aéroport de Paris-Charles de Gaulle"
+     },
+     "city": "Paris",
+     "country": "France",
+     "country_code": "FR",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "BEG",
+      "name": "Belgrade Nikola Tesla Airport"
+     },
+     "city": "Belgrade",
+     "country": "Serbia",
+     "country_code": "RS",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7EAGVThEg5RNGkqD5BdIQgKKOU9_isOKrDS4i7ItH6lsA0d8mAWaamXMQM5Ie5k_inJUTZiafppxrw",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntkSQmPbIO7_IvwNqOIrcseP4V0ckRXSXwFRpu8hJbmyKPD5vdE_zpXCIHCppLjgDdUXf9yoVsjYAamOgecBO8L4F_1FNayeD6wkWMh0"
+    }
+   ]
+  }
+ ]
+}

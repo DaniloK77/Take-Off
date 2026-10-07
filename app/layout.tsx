@@ -1,15 +1,12 @@
 import type { Metadata } from "next";
-import { Schibsted_Grotesk, Martian_Mono, Geist } from "next/font/google";
+import { Schibsted_Grotesk, Martian_Mono } from "next/font/google";
 import "./globals.css";
 import LightRays from "../components/LightRays";
 import Navbar from "../components/navbar";
+import Footer from "../components/Footer";
+import { siteConfig } from "@/lib/config";
 
 // ── Fonts ────────────────────────────────────────────────────────────────────
-
-const geist = Geist({
-  subsets: ["latin"],
-  variable: "--font-sans",
-});
 
 const schibstedGrotesk = Schibsted_Grotesk({
   variable: "--font-schibsted-grotesk",
@@ -24,8 +21,16 @@ const martianMono = Martian_Mono({
 // ── Metadata ─────────────────────────────────────────────────────────────────
 
 export const metadata: Metadata = {
-  title: "DevEvents",
-  description: "The hub for every dev event you must not miss",
+  metadataBase: new URL(siteConfig.url),
+  title: {
+    default: siteConfig.title,
+    template: `%s | ${siteConfig.name}`,
+  },
+  description: siteConfig.description,
+  openGraph: {
+    siteName: siteConfig.name,
+    type: "website",
+  },
 };
 
 // ── Layout ───────────────────────────────────────────────────────────────────
@@ -36,8 +41,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body>
+    <html
+      lang="en"
+      className={`${schibstedGrotesk.variable} ${martianMono.variable}`}
+    >
+      <body className="flex min-h-dvh flex-col">
+        <a href="#content" className="skip-link">
+          Skip to content
+        </a>
         <Navbar />
         {/* Background effect */}
         <div className="fixed inset-0 z-[-1]">
@@ -58,8 +69,11 @@ export default function RootLayout({
         </div>
 
         {/* App shell */}
-        <div className="relative flex min-h-screen flex-col">
-          <main className="flex-1">{children}</main>
+        <div className="relative flex flex-1 flex-col">
+          <main id="content" className="flex-1">
+            {children}
+          </main>
+          <Footer />
         </div>
       </body>
     </html>
